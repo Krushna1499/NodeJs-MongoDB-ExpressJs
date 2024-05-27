@@ -25,6 +25,10 @@ template engine ==>  ye ek style of markup
 
 ejs is very very similar to html
 
-static files 
+--static files
+1) create a folder called public
+2) create three folders inside it ,images,stylesheet,javascripts
+3)configure the express static in script.js file
+4) understand the path  
 http methods
 error handling
